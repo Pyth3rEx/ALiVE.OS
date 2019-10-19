@@ -6,116 +6,154 @@
     <Original>Player Persistence</Original>
     <German>Player Persistence</German>
     <Italian>Player Persistence</Italian>
+    <French>Persistence Joueur</French>
 </Key>
 <Key ID="STR_ALIVE_player_COMMENT">
     <Original>Player Persistence Module</Original>
+    <French>Module de Persistence Joueur</French>
 </Key>
 <Key ID="STR_ALIVE_player_ENABLE">
     <Original>Persist Player State</Original>
+    <French>Sauvegarder l'état du joueur</French>
 </Key>
 <Key ID="STR_ALIVE_player_ENABLE_COMMENT">
     <Original>Persist Player State between server disconnects and/or server restarts</Original>
+    <French>Sauvegarde l'état du joueur entre déco/reco et restarts serveurs</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowReset">
     <Original>Allow Player State Reset:</Original>
+    <French>Autoriser le reset de l'état du joueur:</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowReset_ENABLE">
     <Original>Enable Player Reset</Original>
+    <French>Autoriser le reset de l'état du joueur</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowReset_DISABLE">
     <Original>Disable Player Reset</Original>
+    <French>Refuser le reset de l'état du joueur</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowReset_COMMENT">
     <Original>Allow players to reset themselves to their current session starting state or manual save point</Original>
+    <French>Autoriser les joueurs à reset leur progression à la sauvegarde de début de mission ou au point de sauvegarde manuel</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowReset_ACTION">
     <Original>Reset to Previous Session State</Original>
+    <French>Charger le point de sauvegarde précédent</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowManualSave">
     <Original>Allow Player Manual Save:</Original>
+    <French>Autoriser les joueurs à faire des sauvegardes manuels</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowReset_ACTION_COMMENT">
     <Original>Reset yourself to the last current session starting state or manual save point</Original>
+    <French>Charger le point de sauvegarde de début de mission ou point de sauvegarde manuel</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowManualSave_ENABLE">
     <Original>Enable Player Manual Save</Original>
+    <French>Autoriser la sauvegarde manuelle</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowManualSave_DISABLE">
     <Original>Disable Player Manual Save</Original>
+    <French>Refuser la sauvegarde manuelle de l'état du joueur</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowManualSave_COMMENT">
     <Original>Allow players to manually save their current state</Original>
+    <French>Autoriser les joueurs à sauvegarder leur progression manuellement</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowManualSave_ACTION">
     <Original>Save Player Data</Original>
+    <French>Sauvegarder la progression joueur</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowManualSave_ACTION_COMMENT">
     <Original>Save your player data between disconnect and reconnect. If DB is enabled, will store player state between server restarts.</Original>
+    <French>Sauvegarder la progression de votre perso. Si la DB est active, cela gardera les sauvegardes même après un restart serveur.</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowDiffClass">
     <Original>Allow Different Class Rejoin:</Original>
+    <French>Autoriser la reconnection avec une classe différente:</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowDiffClass_ENABLE">
     <Original>Enable Different Class Rejoin</Original>
+    <French>Autoriser la reconnection avec une classe différente:</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowDiffClass_DISABLE">
     <Original>Disable Different Class Rejoin</Original>
+    <French>Refuser la reconnection avec une classe différente:</French>
 </Key>
 <Key ID="STR_ALIVE_player_allowDiffClass_COMMENT">
     <Original>Allow players to rejoin the mission as a different class</Original>
+    <French>Autorise les joueurs à rejoindre une mission avec une classe différente</French>
 </Key>
 <Key ID="STR_ALIVE_player_storeToDB">
     <Original>Save to Database:</Original>
+    <French>Sauvegarder sur la Dase de Donnée</French>
 </Key>
 <Key ID="STR_ALIVE_player_storeToDB_ENABLE">
     <Original>Enable external database</Original>
+    <French>Utiliser une Base de Donnée externe</French>
 </Key>
 <Key ID="STR_ALIVE_player_storeToDB_DISABLE">
     <Original>Disable External Database</Original>
+    <French>Ne pas utiliser une Base de Donnée externe</French>
 </Key>
 <Key ID="STR_ALIVE_player_storeToDB_COMMENT">
     <Original>Enable/disable saving player data</Original>
+    <French>Activer/Désactiver la sauvegarde des données joueurs</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVELOADOUT">
     <Original>Store Loadout:</Original>
+    <French>Sauvegarder l'équipement:</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVELOADOUT_COMMENT">
     <Original>Enable/disable saving player load-out data</Original>
+    <French>Activer/Désactiver la sauvegarde des équipements</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVEAMMO">
     <Original>Store Ammo Count:</Original>
+    <French>Sauvegarder les niveaux de munition:</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVEAMMO_COMMENT">
     <Original>Enable/disable saving player ammo count</Original>
+    <French>Activer/Désactiver la sauvegarde des niveaux de munition</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVEHEALTH">
     <Original>Store Health:</Original>
+    <French>Sauvegarder l'état de santé</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVEHEALTH_COMMENT">
     <Original>Enable/disable saving player health data</Original>
+    <French>Activer/Désactiver la sauvegarde de l'état de santé</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVEPOSITION">
     <Original>Store Position:</Original>
+    <French>Sauvegarder la position:</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVEPOSITION_COMMENT">
     <Original>Enable/disable saving player position data</Original>
+    <French>Activer/Désactiver la sauvegarde de la position</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVESCORES">
     <Original>Store Scores:</Original>
+    <French>Sauvegarder le tableau des scores:</French>
 </Key>
 <Key ID="STR_ALIVE_player_SAVESCORES_COMMENT">
     <Original>Enable/disable saving player score for the current mission</Original>
+    <French>Activer/Désactiver la sauvegarde du tableau des scores</French>
 </Key>
 <Key ID="STR_ALIVE_player_autoSaveTime">
     <Original>Auto Save Interval:</Original>
+    <French>Interval d'Auto-Sauvegarde</French>
 </Key>
 <Key ID="STR_ALIVE_player_autoSaveTime_SET">
     <Original>Set Auto Save Interval</Original>
+    <French>Définisez l'interval de sauvegarde automatique</French>
 </Key>
 <Key ID="STR_ALIVE_player_autoSaveTime_COMMENT">
     <Original>Set the interval between auto saves of player data (in seconds) to external database. This may impact server performance. 0 means save only at mission exit or player disconnection.</Original>
+    <French>Définir l'interval entre les sauvegardes automatiques (en secondes) à la Base de Donnée. Ceci peut impacter les performances du serveur. 0 = sauvegarde automatique uniquement en fin de mission ou déconnection du joueur.</French>
 </Key>
 <Key ID="STR_ALIVE_player_ERROR1">
     <Original>Only one Player Persistence module can be used</Original>
+    <French>Seul un module Player Persistence peut être utilisé à la fois</French>
 </Key>
 </Container></Package></Project>
